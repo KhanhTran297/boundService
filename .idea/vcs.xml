@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DemoForeGround" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalProjectCloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalProjectOOSE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nhom04WebPrograming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nhom04WebPrograming/WebApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjectWebCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Servicedemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testjson" vcs="Git" />
+  </component>
+</project>
